@@ -1,0 +1,4 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(C:\Users\bingx\weatherapp\weatherapp\src\main\resources\dataexport_20200525T133810.csv,C:\Users\bingx\weatherapp\weatherapp\target\scala-2.12\classes\dataexport_20200525T133810.csv)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(C:\Users\bingx\weatherapp\weatherapp\src\main\resources\ch\makery\weather\view\RootLayout.fxml,C:\Users\bingx\weatherapp\weatherapp\target\scala-2.12\classes\ch\makery\weather\view\RootLayout.fxml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(C:\Users\bingx\weatherapp\weatherapp\src\main\resources\ch\makery\weather\view\WeatherOverview.fxml,C:\Users\bingx\weatherapp\weatherapp\target\scala-2.12\classes\ch\makery\weather\view\WeatherOverview.fxml)[0m

@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\bingx\weatherapp\weatherapp\src\main\scala\ch\makery\weather\model\Weather.scala:83:41: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : java.time.LocalDate[0m
+[0m[[0m[31merror[0m] [0m[0m required: java.time.LocalDateTime[0m
+[0m[[0m[31merror[0m] [0m[0m      var weekAndYear = isSameWeek(data._1)[0m
+[0m[[0m[31merror[0m] [0m[0m                                        ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
